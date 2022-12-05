@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\c#\DZ 3 C#\zadacha23\obj\Debug\net6.0\zadacha23.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\c#\DZ 3 C#\zadacha23\obj\Debug\net6.0\zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\c#\DZ 3 C#\zadacha23\obj\Debug\net6.0\zadacha23.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c#\DZ 3 C#\zadacha23\obj\Debug\net6.0\zadacha23.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c#\DZ 3 C#\zadacha23\obj\Debug\net6.0\zadacha23.csproj.CoreCompileInputs.cache
